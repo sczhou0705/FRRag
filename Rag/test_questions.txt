@@ -1,0 +1,33 @@
+1: what is the long term debt of NVDA in 2023? 
+Final Result from GPT:
+ As of January 29, 2023, NVIDIA Corporation (NVDA) reported a long-term debt of **$9.703 billion**. This figure represents the total long-term portion of their debt obligations, which is a critical metric for assessing the company's financial leverage and overall financial health.
+
+For the fiscal year ending January 28, 2024, the long-term debt decreased to **$8.459 billion**, indicating a reduction in their long-term liabilities. This decrease can be attributed to repayments made during the fiscal year, including the repayment of certain notes due in 2023.
+
+In summary, NVIDIA's long-term debt in 2023 was **$9.703 billion**, and it has since decreased to **$8.459 billion** by the end of January 2024.
+
+2: how the net income of NVDA changes from 2021 to 2023?    
+Final Result from GPT:
+ To analyze the changes in NVIDIA Corporation's (NVDA) net income from 2021 to 2023, we can refer to the financial data provided for the fiscal years ending January 30, 2021, January 30, 2022, and January 29, 2023.
+
+1. **Fiscal Year 2021**:
+   - Net Income: **$4.33 billion**
+   - Net Income per Diluted Share: **$1.73**
+
+2. **Fiscal Year 2022**:
+   - Net Income: **$9.75 billion**
+   - Net Income per Diluted Share: **$3.85**
+   - Change from FY 2021: Up **125%** from FY 2021.
+   - Net Income: **$4.37 billion**
+   - Net Income per Diluted Share: **$1.74**
+   - Net Income: **$4.37 billion**
+   - Net Income per Diluted Share: **$1.74**
+   - Change from FY 2022: Down **55%** from FY 2022.
+
+### Summary of Changes:
+- From **2021 to 2022**, NVIDIA experienced a significant increase in net income, rising from **$4.33 billion** to **$9.75 billion**, which represents a **125% increase**. This growth was driven by strong demand across its platforms, particularly in gaming and data centers.
+
+- However, from **2022 to 2023**, the net income sharply declined to **$4.37 billion**, marking a **55% decrease**. This decline was attributed to various factors, including increased operating expenses and a significant acquisition termination charge related to the failed Arm acquisition.
+
+### Conclusion:
+Overall, NVIDIA's net income saw substantial growth from 2021 to 2022, but faced a notable decline in 2023, reflecting the volatility in the tech sector and specific challenges faced by the company during that period.
